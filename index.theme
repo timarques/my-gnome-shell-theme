@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=One Theme
+Comment=A dark flat theme based from adwaita
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=One-Theme
+MetacityTheme=One-Theme
+ButtonLayout=menu:minimize,maximize,close
